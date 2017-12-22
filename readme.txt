@@ -1,5 +1,5 @@
 根据jotm xa事物
-maraidb10.0 10.3对xa支持一般，parear状态，进程kill，未保存xa id
+maraidb10.0 10.3对xa支持一般，prepare状态，进程kill，未保存xa id
 
 mysql5.7.20测试xa成功
 
